@@ -1,0 +1,17 @@
+How to Deploy an Ether Smart Contract
+
+
+1. Get metamask and set up account/wallet
+
+2. Go to remix.ethereum.org
+
+3. Paste code & compile
+	(It compiles whatever file is being viewed)
+
+4. Choose correct stuff
+	Environment to Injected Web3
+	Account (to deploy from)
+	Contract
+	parameters (specified in constructor)
+
+5. Deploy
