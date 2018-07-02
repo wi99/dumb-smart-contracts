@@ -1,7 +1,7 @@
 How to Deploy an Ether Smart Contract
 
 
-1. Get metamask and set up account/wallet
+1. Get MetaMask and set up account/wallet
 
 2. Go to remix.ethereum.org
 
@@ -15,3 +15,5 @@ How to Deploy an Ether Smart Contract
 	parameters (specified in constructor)
 
 5. Deploy
+	Edit gas price and Confirm
+	Submit on MetaMask
